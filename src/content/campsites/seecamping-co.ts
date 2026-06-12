@@ -215,7 +215,7 @@ export const seecampingCo: CampsiteConfig = {
     telHref: "tel:+43476823320",
     mail: "info@seecamping.co.at",
     adresse: "Lengholz 15 · 9753 Kleblach-Lind · Kärnten",
-    coords: { lat: 46.7623469, lng: 13.3189023 },
+    coords: { lat: 46.761824, lng: 13.320224 },
   },
 
   languages: ["DE"],
