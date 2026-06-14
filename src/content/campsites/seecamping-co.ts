@@ -55,12 +55,12 @@ export const seecampingCo: CampsiteConfig = {
     },
     {
       title: "Wood Cubes — Camping Deluxe",
-      text: "Lieber feste Wände? Unsere fünf voll ausgestatteten Wood Cubes verbinden die Freiheit des Campings mit dem Komfort eines Mobile Homes.",
+      text: "Unsere fünf Wood Cubes verbinden die Freiheit des Campings mit dem Komfort eines voll ausgestatteten Mobile Homes.",
       image: { src: `${IMG}/woodcubes-aussen.webp`, alt: "Reihe der Wood-Cube-Mobile-Homes aus Holz am Seecamping Kleblach-Lind vor den Bergen" },
     },
     {
       title: "Bergwelt Oberkärntens",
-      text: "Eingebettet ins obere Drautal, rund 10 km von Spittal an der Drau — Wandern, Radfahren, Paragleiten und Wassersport beginnen direkt vor der Tür.",
+      text: "Rund 10 km von Spittal an der Drau — Wandern, Radfahren, Paragleiten und Wassersport starten direkt vor der Tür.",
       image: { src: `${IMG}/camping-bergblick.webp`, alt: "Wohnwagen auf der Wiese mit Blick auf die Berge Oberkärntens beim Seecamping Kleblach-Lind" },
     },
   ],
@@ -101,17 +101,17 @@ export const seecampingCo: CampsiteConfig = {
     features: [
       {
         title: "Camping direkt am See",
-        text: "Morgens aufwachen und der erste Blick fällt auf den Badesee: gepflegte Stellplätze liegen nur wenige Schritte vom glasklaren Wasser entfernt.",
+        text: "Morgens aufwachen mit Seeblick: gepflegte Stellplätze liegen nur wenige Schritte vom glasklaren Badesee entfernt.",
         image: { src: `${IMG}/camping-wohnwagen-see.webp`, alt: "Wohnwagen mit Pavillon auf dem Stellplatz direkt am Badesee beim Seecamping Kleblach-Lind" },
       },
       {
         title: "Gepflegte Rasenstellplätze",
-        text: "45 großzügige Rasenstellplätze mit rund 70 m², jeder mit Strom- und Wasseranschluss — eben und gepflegt vor der Bergkulisse Oberkärntens.",
+        text: "45 Rasenstellplätze mit rund 70 m² und Strom- sowie Wasseranschluss — eben und gepflegt vor der Bergkulisse Oberkärntens.",
         image: { src: `${IMG}/stellplaetze.webp`, alt: "Großzügige Rasenstellplätze mit Wohnmobilen am Seecamping Kleblach-Lind vor den Bergen" },
       },
       {
         title: "Freier Badeseezugang",
-        text: "Der Badezugang ist für Gäste frei — ein geschützter, von der Straße nicht einsehbarer Badesee mit Badebetrieb von Mai bis September.",
+        text: "Der Badezugang ist für Gäste frei — ein geschützter Badesee mit Badebetrieb von Mai bis September.",
         image: { src: `${IMG}/badesee-baden.webp`, alt: "Badegast springt in den Badesee beim Seecamping Kleblach-Lind, im Hintergrund das Bistro" },
       },
       {
@@ -121,7 +121,7 @@ export const seecampingCo: CampsiteConfig = {
       },
       {
         title: "Ruhe pur am Wasser",
-        text: "Glasklares Wasser, Wasservögel am Morgen und eine Ruhe, die aus dem hektischen Alltag heraushebt — einfach durchatmen und ankommen am See.",
+        text: "Glasklares Wasser, Wasservögel am Morgen und echte Ruhe — einfach durchatmen und am See ankommen.",
         image: { src: `${IMG}/liegestuhl-see.webp`, alt: "Liegestuhl auf einem Holzsteg mit Blick über den ruhigen Badesee bei Kleblach-Lind" },
       },
     ],
@@ -135,7 +135,7 @@ export const seecampingCo: CampsiteConfig = {
       {
         name: "Wood Cube",
         kind: "Mobile Home · bis 4 Personen",
-        text: "33,5 m² Wohnfläche plus 21 m² überdachte Holzterrasse: zwei Schlafzimmer (ein Doppelbett sowie zwei Einzelbetten), Badezimmer mit Dusche/WC, voll ausgestattete Küche, SAT-TV, Heizung und Klimaanlage. Bettwäsche und Handtücher bitte selbst mitbringen.",
+        text: "33,5 m² + 21 m² Terrasse, 2 Schlafzimmer (max. 4 Pers.), Küche, Bad, SAT-TV und Klimaanlage. Bettwäsche bitte selbst mitbringen.",
         image: { src: `${IMG}/woodcubes-row.webp`, alt: "Reihe der Wood-Cube-Mobile-Homes aus Holz mit Terrassen vor der Bergkulisse am Seecamping Kleblach-Lind" },
         priceFrom: 139,
         features: ["33,5 m² + 21 m² Terrasse", "2 Schlafzimmer · max. 4 Pers.", "Küche, Bad, SAT-TV & Klimaanlage"],
@@ -150,7 +150,7 @@ export const seecampingCo: CampsiteConfig = {
     items: [
       {
         title: "Frühstück am See",
-        text: "Starte mit einem reichhaltigen Frühstück in den Tag — auf Wunsch mit Brötchenservice: bis 19 Uhr am Vorabend Bescheid geben und morgens gibt's frisches Gebäck.",
+        text: "Mit Brötchenservice starten: bis 19 Uhr am Vorabend bestellen und morgens frisches Gebäck zum Frühstück genießen.",
         image: { src: `${IMG}/fruehstueck.webp`, alt: "Reichhaltiges Frühstück mit Gebäck, Kaffee und Saft am Seecamping Kleblach-Lind" },
       },
       {
@@ -160,7 +160,7 @@ export const seecampingCo: CampsiteConfig = {
       },
       {
         title: "Baden im Badesee",
-        text: "Stege und Liegewiese laden von Mai bis September zum Schwimmen und Sonnen ein — das glasklare Wasser hat beste Naturteich-Qualität.",
+        text: "Stege und Liegewiese laden von Mai bis September ein — glasklares Wasser in bester Naturteich-Qualität.",
         image: { src: `${IMG}/steg-see.webp`, alt: "Holzsteg am Badesee, umrahmt von Bäumen und Bergen beim Seecamping Kleblach-Lind" },
       },
     ],
