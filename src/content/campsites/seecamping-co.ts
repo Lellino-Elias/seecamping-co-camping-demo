@@ -136,7 +136,7 @@ export const seecampingCo: CampsiteConfig = {
         name: "Wood Cube",
         kind: "Mobile Home · bis 4 Personen",
         text: "33,5 m² Wohnfläche plus 21 m² überdachte Holzterrasse: zwei Schlafzimmer (ein Doppelbett sowie zwei Einzelbetten), Badezimmer mit Dusche/WC, voll ausgestattete Küche, SAT-TV, Heizung und Klimaanlage. Bettwäsche und Handtücher bitte selbst mitbringen.",
-        image: { src: `${IMG}/woodcube-am-see.webp`, alt: "Wood-Cube-Mobile-Homes aus Holz mit Blick auf den Badesee beim Seecamping Kleblach-Lind" },
+        image: { src: `${IMG}/woodcubes-row.webp`, alt: "Reihe der Wood-Cube-Mobile-Homes aus Holz mit Terrassen vor der Bergkulisse am Seecamping Kleblach-Lind" },
         priceFrom: 139,
         features: ["33,5 m² + 21 m² Terrasse", "2 Schlafzimmer · max. 4 Pers.", "Küche, Bad, SAT-TV & Klimaanlage"],
       },
@@ -156,7 +156,7 @@ export const seecampingCo: CampsiteConfig = {
       {
         title: "Seecamping Bistro",
         text: "Das Bistro direkt am See verwöhnt mit Snacks wie Pizza und Toast, heißen und kalten Getränken sowie Eis für zwischendurch.",
-        image: { src: `${IMG}/bistro.webp`, alt: "Das Seecamping-Bistro mit Sonnenschirmen und Liegewiese am Badesee in Kleblach-Lind" },
+        image: { src: `${IMG}/bistro-terrasse.webp`, alt: "Bistro-Terrasse am Badesee beim Seecamping Kleblach-Lind mit Tischen und Bergblick" },
       },
       {
         title: "Baden im Badesee",
